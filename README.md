@@ -5,3 +5,5 @@ we modeled the buffer as a queue with two types ( finite capacity and infinite c
 we use the N threshold policy to serve the packets
 the packets arrives randomly with poisson process with mean arrival lambda
 we have three type of priority of packets ( low - medium - high ) and each packet arrives with it's own mean arrival lambda
+this is our final study project there is still some things to change 
+enjoy
