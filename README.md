@@ -1,5 +1,4 @@
 # discrete-event-simulation-in-a-queueing-theory-model-with-N-vacancy
-#this is our final study project there is still some things to change 
 discrete event simulation in queueing theory with N threshold policy using C#
 in this project we developed a tool to simulate the performances of a wireless sensor node and basiclly the energy consummption
 we modeled the buffer as a queue with two types ( finite capacity and infinite capacity)
